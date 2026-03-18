@@ -37,6 +37,7 @@ Clone the repository and install dependencies:
 git clone [https://github.com/doha-ms/go-mongodb-graphql-crud.git](https://github.com/doha-ms/go-mongodb-graphql-crud.git)
 cd go-mongodb-graphql-crud
 go mod tidy
+
 ```
 
 ### 3. Running the server
@@ -44,6 +45,7 @@ Start the backend service:
 
 ```bash
 go run server.go
+
 ```
 
 
